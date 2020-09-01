@@ -1,3 +1,3 @@
-module github.com/buger/jsonparser
+module github.com/cosmwasm/jsonparser
 
 go 1.13
